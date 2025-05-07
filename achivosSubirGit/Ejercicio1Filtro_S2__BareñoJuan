@@ -1,0 +1,12 @@
+contador = 1
+# Queremos conocer el número a usar
+print('ingresa el número para usar: ')
+numIngresado = int(input())
+
+# Creamos un bucle for para que se multiplique por él mismo y los anteriores
+for i in range(1, numIngresado + 1):
+    contador = contador * i 
+
+print(contador)
+
+# DESARROLLADO POR: JUAN PABLO BAREÑO SIERRA I.T
