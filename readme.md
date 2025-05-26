@@ -27,7 +27,7 @@ Para utilizar los archivos del repositorio:
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/Shilohzz/Python_S2_BarenoJuan.git
 
 ## Usar
 
